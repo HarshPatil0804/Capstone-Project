@@ -108,5 +108,4 @@ graph TD
 - **Workflow Diagram**: ![Workflow Diagram](assets/architecture_diagram.png)
 - **Cover Banner**: ![Cover Banner](assets/cover_page_banner.png)
 
-## Demo Script
-Refer to [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt) for a presentation script detailing the project's operation and features.
+
